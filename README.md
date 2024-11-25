@@ -1,7 +1,7 @@
-# Evaluating-the-Effectiveness-of-an-Online-Health-Food-Store-s-Recommendation-System  
+# The Analysis of A/B Test Data   
 *Python / Statistical analysis*  
 
-*The Analysis of A/B Test Data*
+**Evaluating the Effectiveness of an Online Health Food Store's Recommendation System**
 
 ## Overview
 This project involves the analysis of an A/B experiment conducted to evaluate the effectiveness of a new recommendation system for an online health food store. The goal is to determine if the new recommendation system leads to an increase in revenue compared to the existing system.
