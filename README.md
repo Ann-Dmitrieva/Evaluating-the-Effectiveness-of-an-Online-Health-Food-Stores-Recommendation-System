@@ -1,4 +1,6 @@
-# Evaluating-the-Effectiveness-of-an-Online-Health-Food-Store-s-Recommendation-System
+# Evaluating-the-Effectiveness-of-an-Online-Health-Food-Store-s-Recommendation-System  
+*Python / Statistical analysis*  
+
 *The Analysis of A/B Test Data*
 
 ## Overview
